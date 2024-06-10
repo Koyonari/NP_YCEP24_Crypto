@@ -11,7 +11,7 @@ Encoded parts of the flag: LFBUKUBSGR5VI===, aElzX0lzTg==, E5KF6VRTKJ4Q====, X0J
 
 Hint: 0101
 
-## CHallenge Solution
+## Challenge Solution
 0 = base32 cipher<br>
 1 = base64 cipher<br>
 0101 indicates that the 1st and 3rd part of the flag is decoded using base32, 2nd and 4th part of the flag is decoded using base64.
